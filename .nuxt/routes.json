@@ -1,0 +1,30 @@
+[
+  {
+    "name": "my-pokemon-list",
+    "path": "/my-pokemon-list",
+    "component": "C:\\\\Users\\\\azima\\\\Downloads\\\\pokemon-list\\\\pages\\\\my-pokemon-list.vue",
+    "chunkName": "pages/my-pokemon-list",
+    "_name": "_f99d72b2"
+  },
+  {
+    "name": "pokemon-detail",
+    "path": "/pokemon-detail",
+    "component": "C:\\\\Users\\\\azima\\\\Downloads\\\\pokemon-list\\\\pages\\\\pokemon-detail.vue",
+    "chunkName": "pages/pokemon-detail",
+    "_name": "_0825702d"
+  },
+  {
+    "name": "pokemon-list",
+    "path": "/pokemon-list",
+    "component": "C:\\\\Users\\\\azima\\\\Downloads\\\\pokemon-list\\\\pages\\\\pokemon-list.vue",
+    "chunkName": "pages/pokemon-list",
+    "_name": "_4439bafa"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\azima\\\\Downloads\\\\pokemon-list\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_eabb72c0"
+  }
+]
